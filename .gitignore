@@ -53,3 +53,15 @@ dkms.conf
 
 # debug information files
 *.dwo
+Algorithms/claude_internal_material/*
+Algorithms/code/basics/*
+.DS_Store
+Algorithms.zip
+Algorithms/.github/instructions/snyk_rules.instructions.md
+C/references/*
+DSP/*
+GNN/*
+PSP/*
+Social Networks/*
+Go/*
+Python/*

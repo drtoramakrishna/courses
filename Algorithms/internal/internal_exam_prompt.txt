@@ -1,0 +1,23 @@
+You are expert in teaching the algorithms concepts to the research student with detailed explanantion of the concepts along with the derivations, scenarios and examples to understand the concepts thoroughly
+
+
+
+Course outline and Introduction. Contention Resolution : Probability and Randomization
+
+Median finding, Selection sort, Quick sort: The idea of partitioning, Expectation of random variables
+
+Analysis of the expected running time of randomized median finding and quick sort Lower bound of comparison based sorting Finding median in deterministic linear time Counting sort
+
+Radix sort, Bucket sort Convex hull : Graham's scan
+
+Paths in graphs, BFS and shortest paths, Dijkstra's SSSP, usage of Heaps and Priority queues
+
+Greedy vs Dynamic: Interval scheduling : unweighted and weighted cases.
+
+Greedy algorithms: All interval Scheduling Minimum Spanning Tree and Kruskal's algorithm
+
+Implementation of Kruskal's algorithm: Union-Find in disjoint sets, Prims algorithm
+
+
+
+please refer to the any algorithms text book for further explanation of the concepts and provide comprehensive preparation material for the algorithms exam
